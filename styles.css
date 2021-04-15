@@ -1,0 +1,111 @@
+h1
+{
+  color: #350b40;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Amatic SC',monospace;
+  font-size: 60px;
+
+  font-weight: bolder;
+
+    }
+p
+{
+  color: #810000;
+  font-family: 'Satisfy', cursive;
+  font-size: 28px;
+
+}
+body
+{
+  margin: 0;
+  text-align: center;
+}
+.top-container
+{
+  background-color: #bdd2b6;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 100px;
+
+
+  }
+.middle-container
+{
+
+background-color:  #d3e0dc;
+margin: 0;
+border: 0;
+}
+.bottom-container
+{
+background-color: #d5ecc2;
+margin: 0;
+}
+
+.Cloud-1
+{
+  position: absolute;
+  right: 450px;
+  top: 50px;
+}
+.Cloud-2
+{
+  position: absolute;
+  left: 400px;
+}
+
+h2
+{
+font-family: 'Amatic SC', cursive;
+font-size: 45px;
+}
+
+h3
+{
+font-family: 'Annie Use Your Telescope', cursive;
+font-size: 35px;
+text-align: center;
+font-weight: bold;
+font-stretch: semi-expanded;
+background-color: #ead3cb;
+width: 200px;
+margin: 0 auto 0 auto;
+}
+.SkillsTytle
+{
+  padding-top: 0;
+}
+
+.Database
+{
+  margin-left: 10px;
+}
+
+.aws{
+  margin-top: 0;
+}
+
+.Linux{
+  margin-left: 10px;
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+
+.profile
+{
+  padding-top: 50px;
+}
+
+hr
+{
+  margin: 0;
+  border-width: 0;
+  border-style: none;
+  border-top: 0;
+}
+
+.contact-me
+{
+  padding-top: 10px;
+}
